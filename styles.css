@@ -1,0 +1,60 @@
+container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.text{
+    border:none;
+}
+.image{
+    border:none;
+}
+.profile{
+    width: 189px;  
+    height: 250px;
+    display:flex;
+    justify-content:space-between;
+    border: solid grey;
+    
+}
+div {
+    border: 5px solid #3d3e40;  
+    margin:10px;
+    padding:10px;
+    color: black;
+    font-family: 'Bebas Neue', cursive;
+    font-size:large;
+}
+.posts {  
+  text-align:center;
+}
+.One{
+    width:166px;  
+    height:232px;
+    border: solid black;
+}
+.Two{
+    width:170px;  
+    height:232px;
+    border: solid black;
+}
+.Three{
+  width:170px;  
+    height:232px;
+    border: solid black;
+}
+.book{
+  width:290px;
+  height:290px;
+}
+.nfr{
+  width:290px;
+  height:290px;
+}
+.cocc{
+  width:290px;
+  height:290px;
+}
+body{
+    background-color: #bfc9de;
+}
